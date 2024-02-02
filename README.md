@@ -30,3 +30,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 path: node_modules/ngx-mapbox-gl/fesm2022/ngx-mapbox-gl.mjs
 
 comment lines: 33,34,35
+
+
+## Lib
+https://www.npmjs.com/package/ngx-mapbox-gl
